@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://theendlessnightwithfredbear.wiki
+Sitemap: https://theendlessnightwithfredbear.wiki/sitemap.xml
